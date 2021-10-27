@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a SPA. I practiced the core concepts of Next.js and react with it. Used MongoDB for database. And MUI for CSS.
+
 ## Getting Started
 
 First, run the development server:
